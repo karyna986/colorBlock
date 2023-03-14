@@ -1,0 +1,59 @@
+
+.block {
+    width: 600px;
+    height: 80px;
+}
+header {
+    margin-bottom: 100px;
+}
+.main-block-top {
+    width: 200px;
+    height: 80px;
+    float: left;
+}
+
+.main-block-bottom {
+    width: 200px;
+    height: 80px;
+    float: left;
+}
+footer {
+    margin-top: 100px;
+    background-color: rgb(150, 243, 127);
+    width: 600px;
+    overflow: auto;
+}
+.footer-block {
+    width: 100px;
+    height: 100px;
+    margin: 30px;
+    padding: 20px;
+    float: left;
+}
+
+/* Colors */
+
+.red {
+    background-color: rgb(223, 20, 20);
+}
+
+.green {
+    background-color: rgb(0, 146, 0);
+}
+
+.blue {
+    background-color: rgb(25, 25, 223);
+}
+
+.yellow {
+    background-color: rgb(255, 251, 13);
+}
+
+.grey {
+    background-color: rgb(106, 106, 110);
+}
+
+.black {
+    background-color: rgb(0, 0, 0);
+}
+
