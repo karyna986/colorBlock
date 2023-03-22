@@ -1,4 +1,6 @@
-
+* {
+    margin: 0 auto;
+}
 .block {
     width: 600px;
     height: 80px;
